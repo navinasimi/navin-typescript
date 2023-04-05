@@ -1,0 +1,16 @@
+{
+  "name": "navin-typescript",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.3",
+    "webpack": "^5.77.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.2"
+  }
+}
